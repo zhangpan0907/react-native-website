@@ -26,7 +26,7 @@
     "case-police": "^0.5.14",
     "eslint": "^8.20.0",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-mdx": "^1.16.0",
+    "eslint-plugin-mdx": "^2.0.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-yml": "^1.2.0",
     "husky": "^4.3.8",
